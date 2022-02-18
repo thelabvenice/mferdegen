@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x42E94e7409E992cc925aFABaB9eb67fE3177Ae8C",
+  "SCAN_LINK": "https://etherscan.io/address/0x42e94e7409e992cc925afabab9eb67fe3177ae8c",
+  "NETWORK": {
+    "NAME": "Ethererum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Degen mfer",
+  "SYMBOL": "DEGNMFR",
+  "MAX_SUPPLY": 69,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 200000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/degen-mfer",
+  "SHOW_BACKGROUND":false
+}
