@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x42E94e7409E992cc925aFABaB9eb67fE3177Ae8C",
-  "SCAN_LINK": "https://etherscan.io/address/0x42e94e7409e992cc925afabab9eb67fe3177ae8c",
+  "CONTRACT_ADDRESS": "0x95516c7368413e55840fde1e59b2e23d9694cb09",
+  "SCAN_LINK": "https://etherscan.io/address/0x95516c7368413e55840fde1e59b2e23d9694cb09",
   "NETWORK": {
     "NAME": "Ethererum",
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Degen mfer",
-  "SYMBOL": "DEGNMFR",
-  "MAX_SUPPLY": 69,
-  "WEI_COST": 150000000000000000,
-  "DISPLAY_COST": 0.15,
-  "GAS_LIMIT": 145000,
+  "NFT_NAME": "Sketchy Skelly's",
+  "SYMBOL": "SKETCH",
+  "MAX_SUPPLY": 169,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 150000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/degen-mfer",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sketchyskellys",
   "SHOW_BACKGROUND":false
 }
