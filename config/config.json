@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x95516c7368413e55840fde1e59b2e23d9694cb09",
-  "SCAN_LINK": "https://etherscan.io/address/0x95516c7368413e55840fde1e59b2e23d9694cb09",
+  "CONTRACT_ADDRESS": "0x83654cb5888d36b4c09B29359C085F90eeBD22F0",
+  "SCAN_LINK": "https://etherscan.io/address/0x83654cb5888d36b4c09B29359C085F90eeBD22F0",
   "NETWORK": {
     "NAME": "Ethererum",
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Sketchy Skelly's",
-  "SYMBOL": "SKETCH",
-  "MAX_SUPPLY": 169,
-  "WEI_COST": 200000000000000000,
-  "DISPLAY_COST": 0.20,
+  "NFT_NAME": "Fractured by Manic",
+  "SYMBOL": "FRAC",
+  "MAX_SUPPLY": 3500,
+  "WEI_COST": 6900000000000000,
+  "DISPLAY_COST": 0.0069,
   "GAS_LIMIT": 150000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/sketchyskellys",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Fractured-by-Manic",
   "SHOW_BACKGROUND":false
 }
